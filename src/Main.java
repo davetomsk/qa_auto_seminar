@@ -14,6 +14,8 @@ public class Main {
 
         System.out.println("new branch");
 
+        System.out.println("new feature finished");
+
 //        System.out.println("Hello " + args[0]);
 //
 //        System.out.println("Hello " + args[1]);
