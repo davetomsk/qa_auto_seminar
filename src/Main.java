@@ -7,6 +7,9 @@ public class Main {
         a++;
         a++;
 
+
+        System.out.println("Hi!");
+
 //        System.out.println("Hello " + args[0]);
 //
 //        System.out.println("Hello " + args[1]);
