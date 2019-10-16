@@ -21,7 +21,9 @@ public class Main {
 //
 //        System.out.println("Hello " + args[1]);
 
-       System.out.println("Hello Moxnata" + args[2]);
+
+       System.out.println("Hello Dear Moxnata" + args[2]);
+
 
     }
 
