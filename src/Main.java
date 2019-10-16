@@ -4,7 +4,7 @@ public class Main {
 
         int a = 5;
         a++;
-        a1++;
+        a++;
         a++;
 
 //asd
